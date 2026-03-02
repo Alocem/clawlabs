@@ -58,7 +58,7 @@ export default function WorkspacePage() {
     <main className="min-h-screen bg-gray-950 text-white">
       <nav className="border-b border-gray-800 px-6 py-4 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold tracking-tight">
-          Eden<span className="text-emerald-400">Lab</span>
+          0xV<span className="text-emerald-400">Lab</span>
         </Link>
         <div className="flex gap-6 text-sm text-gray-400">
           <Link href="/" className="hover:text-white transition">首页</Link>
